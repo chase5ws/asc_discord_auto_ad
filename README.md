@@ -1,5 +1,5 @@
 ### discord自動發言廣告
-
+![icon](asset/icon.png)
 ---
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
