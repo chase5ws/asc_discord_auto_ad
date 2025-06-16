@@ -8,7 +8,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/chase5ws/asc_discord_auto_ad)
 ![GitHub forks](https://img.shields.io/github/forks/chase5ws/asc_discord_auto_ad)
 
-* 這篇是我將(上)、(下)Py網頁端驅動discord傳送訊息(含雲端code託管教學)
+* 這教學文篇是講述我用雲端code託管教學透過Py網頁端驅動discord傳送訊息
 [(上)學習教材](https://www.linkedin.com/pulse/part1-py%25E7%25B6%25B2%25E9%25A0%2581%25E7%25AB%25AF%25E9%25A9%2585%25E5%258B%2595discord%25E5%2582%25B3%25E9%2580%2581%25E8%25A8%258A%25E6%2581%25AF%25E5%2590%25AB%25E9%259B%25B2%25E7%25AB%25AFcode%25E8%25A8%2597%25E7%25AE%25A1%25E6%2595%2599%25E5%25AD%25B8-yang-tseng-5eqne/)、[(下)學習教材](https://www.linkedin.com/pulse/%E4%B8%8Bpy%E7%B6%B2%E9%A0%81%E7%AB%AF%E9%A9%85%E5%8B%95discord%E5%82%B3%E9%80%81%E8%A8%8A%E6%81%AF%E5%90%AB%E9%9B%B2%E7%AB%AFcode%E8%A8%97%E7%AE%A1%E6%95%99%E5%AD%B8-yang-tseng-oqgne/?trackingId=GPU1Ug9skOF5nNYya0NkUg%3D%3D)
 
 ---
